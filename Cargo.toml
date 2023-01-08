@@ -1,0 +1,12 @@
+[package]
+name = "truncating-arraystring"
+description = "ArrayString wrapper with truncating Write"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/yuryshulaev/truncating-arraystring"
+keywords = ["string", "buffer", "stack", "data-structure", "performance"]
+categories = ["data-structures"]
+
+[dependencies]
+arrayvec = "0.7.2"
